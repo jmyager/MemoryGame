@@ -1,0 +1,21 @@
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px rgba(102, 101, 101,.5);
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.nav-item {
+    color: white;
+}
+
+.brandLogo {
+    height: 75px;
+    width: auto;
+}
+
+.brandLogo2 {
+    height: 50px;
+    width: auto;
+}
